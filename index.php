@@ -1,5 +1,5 @@
 <?php
 
-echo "Hey, nice to meet you! My name is " . $_SERVER['NODENAME'];
+echo "Hey, nice to meet you! Your request is served by " . $_SERVER['NODENAME'];
 
 ?>
